@@ -29,6 +29,7 @@ export default {
       pointLayer: null,
       polygonLayer: null,
       selectedFeature: null,
+      
       spatialData: {
         points: [
           { lat: 51.505, lng: -0.09, name: "Point 1", population: 500 },
